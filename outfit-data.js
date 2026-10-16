@@ -1,0 +1,4 @@
+const OutfitPhotos = {"assets/shorts-0.jpg": [{"id": 2, "x": 44, "y": 69}, {"id": 4, "x": 50, "y": 43}], "assets/shorts-1.jpg": [{"id": 2, "x": 45, "y": 61}, {"id": 4, "x": 48, "y": 47}], "assets/skirt-0.jpg": [{"id": 3, "x": 49, "y": 73}, {"id": 5, "x": 68, "y": 44}], "assets/post-0.jpg": [{"id": 6, "x": 49, "y": 38}, {"id": 7, "x": 48, "y": 66}], "assets/post-3.jpg": [{"id": 9, "x": 72, "y": 71}, {"id": 10, "x": 54, "y": 51}, {"id": 11, "x": 55, "y": 66}]};
+if(typeof module!=="undefined")module.exports=OutfitPhotos;
+
+const OutfitRatios = {"assets/post-0.jpg": 0.75, "assets/shorts-0.jpg": 0.75, "assets/skirt-0.jpg": 0.7500642178268687, "assets/shorts-1.jpg": 0.75, "assets/post-6.jpg": 0.75, "assets/post-3.jpg": 0.8022284122562674, "assets/nord-0.jpg": 0.8022284122562674, "assets/post-2.jpg": 0.75, "assets/jacket-0.jpg": 0.750244140625, "assets/post-4.jpg": 0.8022284122562674, "assets/nord-1.jpg": 0.8022284122562674, "assets/logo.jpg": 1.0};

@@ -1,0 +1,404 @@
+[
+  {
+    "id": 0,
+    "name": "Пуфер NORD",
+    "category": "Верхній одяг",
+    "price": 1000,
+    "images": [
+      "assets/nord-0.jpg",
+      "assets/nord-1.jpg"
+    ],
+    "description": "MINI PUFFER ‘NORD’ \nвкорочений пуфер з капюшоном \n\nобʼємні рукава / манжети з отвором під палець / внутрішні стропи для носіння / вітрозахисна планка на магнітах / еластична резинка понизу, що формує силует / обʼємний принт на спинці\n\nверхня тканина: плащова тканина із захистом від вологи та вітру\nутеплювач: синтепух високої якості та щільності – забезпечує легкість і тепло навіть у суворих умовах\n\nкольори: BLACK / GREY\nрозміри: XS / S-M / L\nу двох ростовках",
+    "source": "https://www.instagram.com/theage_studio/p/DQ9DnzQDYH8/",
+    "sizes": [
+      "XS",
+      "S-M",
+      "L"
+    ],
+    "colors": [
+      "BLACK",
+      "GREY"
+    ],
+    "collection": "NORD",
+    "material": "Плащова тканина із захистом від вологи та вітру",
+    "features": [
+      "Синтепух високої якості та щільності.",
+      "Манжети з отвором під палець.",
+      "Внутрішні стропи для носіння.",
+      "Вітрозахисна планка на магнітах.",
+      "Еластична резинка понизу.",
+      "Об’ємний принт на спинці."
+    ],
+    "photoNote": "Фото моделі NORD. Обраний колір підтверджує магазин."
+  },
+  {
+    "id": 1,
+    "name": "Сорочка LONG JACKET",
+    "category": "Сорочки",
+    "price": 1000,
+    "images": [
+      "assets/jacket-0.jpg"
+    ],
+    "description": "COTTON COLLECTION ‘ FORMA ’\n\nshirt ‘ LONG JACKET ‘\n\nкольори: dirty beige, light grey, denim blue, khaki \n\nматеріал: 100% котон\n\nрозміри: XS / S / M / L\n\nкількість обмежена | вироби відшиваємо в двох ростовках \n\nдля підбору розміру та оформлення замовлення - звертайтеся в дірект🛒",
+    "source": "https://www.instagram.com/theage_studio/p/DcJGdSHjsf9/",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "dirty beige",
+      "light grey",
+      "denim blue",
+      "khaki"
+    ],
+    "collection": "FORMA",
+    "material": "100% котон (бавовна)",
+    "features": [
+      "Виробляється у двох ростовках.",
+      "Кількість у колекції обмежена."
+    ],
+    "photoNote": "На фото показано образ. До кошика додається лише сорочка long jacket."
+  },
+  {
+    "id": 2,
+    "name": "Шорти MINI",
+    "category": "Шорти",
+    "price": 1000,
+    "images": [
+      "assets/shorts-0.jpg",
+      "assets/shorts-1.jpg"
+    ],
+    "description": "COTTON COLLECTION ‘ FORMA ’ \n\nshorts ‘MINI’ \ntop ‘TRIANGLE‘\n\nкольори: dirty beige, light grey, denim blue, khaki \n\nматеріал: 100% котон\n\nрозміри: XS / S / M / L\n\nкількість обмежена | вироби відшиваємо в двох ростовках \n\nдля підбору розміру та оформлення замовлення - звертайтеся в дірект🛒",
+    "source": "https://www.instagram.com/theage_studio/p/DcOAeNtjrR2/",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "dirty beige",
+      "light grey",
+      "denim blue",
+      "khaki"
+    ],
+    "collection": "FORMA",
+    "material": "100% котон (бавовна)",
+    "features": [
+      "Виробляється у двох ростовках.",
+      "Кількість у колекції обмежена."
+    ],
+    "photoNote": "На фото показано образ. До кошика додається лише шорти mini."
+  },
+  {
+    "id": 3,
+    "name": "Спідниця BUSINESS",
+    "category": "Спідниці",
+    "price": 1000,
+    "images": [
+      "assets/skirt-0.jpg"
+    ],
+    "description": "COTTON COLLECTION ‘ FORMA ’\n\nskirt ‘BUSINESS’\ntop ‘TRIANGLE‘\nshirt ‘MINI‘\n\nкольори: dirty beige, light grey, denim blue, khaki \n\nматеріал: 100% котон\n\nрозміри: XS / S / M / L\n\nкількість обмежена | вироби відшиваємо в двох ростовках \n\nдля підбору розміру та оформлення замовлення - звертайтеся в дірект🛒",
+    "source": "https://www.instagram.com/theage_studio/p/Db-v3Gojigj/",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "dirty beige",
+      "light grey",
+      "denim blue",
+      "khaki"
+    ],
+    "collection": "FORMA",
+    "material": "100% котон (бавовна)",
+    "features": [
+      "Виробляється у двох ростовках.",
+      "Кількість у колекції обмежена."
+    ],
+    "photoNote": "На фото показано образ. До кошика додається лише спідниця business."
+  },
+  {
+    "id": 4,
+    "name": "Топ TRIANGLE",
+    "category": "Топи",
+    "price": 1000,
+    "images": [
+      "assets/shorts-0.jpg",
+      "assets/shorts-1.jpg"
+    ],
+    "description": "COTTON COLLECTION ‘ FORMA ’ \n\nshorts ‘MINI’ \ntop ‘TRIANGLE‘\n\nкольори: dirty beige, light grey, denim blue, khaki \n\nматеріал: 100% котон\n\nрозміри: XS / S / M / L\n\nкількість обмежена | вироби відшиваємо в двох ростовках \n\nдля підбору розміру та оформлення замовлення - звертайтеся в дірект🛒",
+    "source": "https://www.instagram.com/theage_studio/p/DcOAeNtjrR2/",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "dirty beige",
+      "light grey",
+      "denim blue",
+      "khaki"
+    ],
+    "collection": "FORMA",
+    "material": "100% котон (бавовна)",
+    "features": [
+      "Виробляється у двох ростовках.",
+      "Кількість у колекції обмежена."
+    ],
+    "photoNote": "На фото показано образ. До кошика додається лише топ triangle."
+  },
+  {
+    "id": 5,
+    "name": "Сорочка MINI",
+    "category": "Сорочки",
+    "price": 1000,
+    "images": [
+      "assets/skirt-0.jpg"
+    ],
+    "description": "COTTON COLLECTION ‘ FORMA ’\n\nskirt ‘BUSINESS’\ntop ‘TRIANGLE‘\nshirt ‘MINI‘\n\nкольори: dirty beige, light grey, denim blue, khaki \n\nматеріал: 100% котон\n\nрозміри: XS / S / M / L\n\nкількість обмежена | вироби відшиваємо в двох ростовках \n\nдля підбору розміру та оформлення замовлення - звертайтеся в дірект🛒",
+    "source": "https://www.instagram.com/theage_studio/p/Db-v3Gojigj/",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "dirty beige",
+      "light grey",
+      "denim blue",
+      "khaki"
+    ],
+    "collection": "FORMA",
+    "material": "100% котон (бавовна)",
+    "features": [
+      "Виробляється у двох ростовках.",
+      "Кількість у колекції обмежена."
+    ],
+    "photoNote": "На фото показано образ. До кошика додається лише сорочка mini."
+  },
+  {
+    "id": 6,
+    "name": "Топ CORSET",
+    "category": "Топи",
+    "price": 1000,
+    "images": [
+      "assets/post-0.jpg"
+    ],
+    "description": "COTTON COLLECTION ‘ FORMA ’\n\ntop ‘ CORSET ‘\npants ‘ARMOR’\n\nкольори: dirty beige, light grey, denim blue, khaki \n\nматеріал: 100% котон\n\nрозміри: XS / S / M / L\n\nкількість обмежена | вироби відшиваємо в двох ростовках \n\nдля підбору розміру та оформлення замовлення - звертайтеся в дірект🛒",
+    "source": "https://www.instagram.com/theage_studio/p/Db8gSaOCv-s/",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "dirty beige",
+      "light grey",
+      "denim blue",
+      "khaki"
+    ],
+    "collection": "FORMA",
+    "material": "100% котон (бавовна)",
+    "features": [
+      "Виробляється у двох ростовках.",
+      "Кількість у колекції обмежена."
+    ],
+    "photoNote": "На фото показано образ. До кошика додається лише топ corset."
+  },
+  {
+    "id": 7,
+    "name": "Штани ARMOR",
+    "category": "Штани",
+    "price": 1000,
+    "images": [
+      "assets/post-0.jpg"
+    ],
+    "description": "COTTON COLLECTION ‘ FORMA ’\n\ntop ‘ CORSET ‘\npants ‘ARMOR’\n\nкольори: dirty beige, light grey, denim blue, khaki \n\nматеріал: 100% котон\n\nрозміри: XS / S / M / L\n\nкількість обмежена | вироби відшиваємо в двох ростовках \n\nдля підбору розміру та оформлення замовлення - звертайтеся в дірект🛒",
+    "source": "https://www.instagram.com/theage_studio/p/Db8gSaOCv-s/",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "dirty beige",
+      "light grey",
+      "denim blue",
+      "khaki"
+    ],
+    "collection": "FORMA",
+    "material": "100% котон (бавовна)",
+    "features": [
+      "Виробляється у двох ростовках.",
+      "Кількість у колекції обмежена."
+    ],
+    "photoNote": "На фото показано образ. До кошика додається лише штани armor."
+  },
+  {
+    "id": 8,
+    "name": "Топ POCKET",
+    "category": "Топи",
+    "price": 1000,
+    "images": [
+      "assets/post-2.jpg"
+    ],
+    "description": "COTTON COLLECTION ‘ FORMA ’\n\ntop ‘POCKET‘\npants ‘ARMOR’\n\nкольори: dirty beige, light grey, denim blue, khaki \n\nматеріал: 100% котон\n\nрозміри: XS / S / M / L\nкількість обмежена | вироби відшиваємо в двох ростовках \n\nдля підбору розміру та оформлення замовлення - звертайтеся в дірект🛒",
+    "source": "https://www.instagram.com/theage_studio/p/Db2s1ozDonP/",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "dirty beige",
+      "light grey",
+      "denim blue",
+      "khaki"
+    ],
+    "collection": "FORMA",
+    "material": "100% котон (бавовна)",
+    "features": [
+      "Виробляється у двох ростовках.",
+      "Кількість у колекції обмежена."
+    ],
+    "photoNote": "На фото показано образ. До кошика додається лише топ pocket."
+  },
+  {
+    "id": 9,
+    "name": "Халат MINI",
+    "category": "Домашній одяг",
+    "price": 1000,
+    "images": [
+      "assets/post-3.jpg"
+    ],
+    "description": "HOME COLLECTION ‘ PRIVATE CEREMONY‘\nхалат міні / топ-бра / трусики \n\nхалат із мережива з атласним поясом / топ-бра з підкладкою без чашок / трусики міні\n\nкольори: WHITE / BLACK \nрозміри: XS - S / M - L\nвсі вироби відшиваємо у двох ростовках",
+    "source": "https://www.instagram.com/theage_studio/p/DVGojI-DGl8/",
+    "sizes": [
+      "XS-S",
+      "M-L"
+    ],
+    "colors": [
+      "WHITE",
+      "BLACK"
+    ],
+    "collection": "PRIVATE CEREMONY",
+    "material": "Мереживо",
+    "features": [
+      "Мереживо та атласний пояс."
+    ],
+    "photoNote": "На фото показано образ. До кошика додається лише халат mini."
+  },
+  {
+    "id": 10,
+    "name": "Топ-бра PRIVATE CEREMONY",
+    "category": "Білизна",
+    "price": 1000,
+    "images": [
+      "assets/post-3.jpg"
+    ],
+    "description": "HOME COLLECTION ‘ PRIVATE CEREMONY‘\nхалат міні / топ-бра / трусики \n\nхалат із мережива з атласним поясом / топ-бра з підкладкою без чашок / трусики міні\n\nкольори: WHITE / BLACK \nрозміри: XS - S / M - L\nвсі вироби відшиваємо у двох ростовках",
+    "source": "https://www.instagram.com/theage_studio/p/DVGojI-DGl8/",
+    "sizes": [
+      "XS-S",
+      "M-L"
+    ],
+    "colors": [
+      "WHITE",
+      "BLACK"
+    ],
+    "collection": "PRIVATE CEREMONY",
+    "material": "Склад волокон не зазначений у публікації",
+    "features": [
+      "Підкладка без чашок."
+    ],
+    "photoNote": "На фото показано образ. До кошика додається лише топ-бра private ceremony."
+  },
+  {
+    "id": 11,
+    "name": "Трусики MINI",
+    "category": "Білизна",
+    "price": 1000,
+    "images": [
+      "assets/post-3.jpg"
+    ],
+    "description": "HOME COLLECTION ‘ PRIVATE CEREMONY‘\nхалат міні / топ-бра / трусики \n\nхалат із мережива з атласним поясом / топ-бра з підкладкою без чашок / трусики міні\n\nкольори: WHITE / BLACK \nрозміри: XS - S / M - L\nвсі вироби відшиваємо у двох ростовках",
+    "source": "https://www.instagram.com/theage_studio/p/DVGojI-DGl8/",
+    "sizes": [
+      "XS-S",
+      "M-L"
+    ],
+    "colors": [
+      "WHITE",
+      "BLACK"
+    ],
+    "collection": "PRIVATE CEREMONY",
+    "material": "Склад волокон не зазначений у публікації",
+    "features": [
+      "Модель міні."
+    ],
+    "photoNote": "На фото показано образ. До кошика додається лише трусики mini."
+  },
+  {
+    "id": 12,
+    "name": "Мереживна сукня MINI",
+    "category": "Сукні",
+    "price": 1000,
+    "images": [
+      "assets/post-4.jpg"
+    ],
+    "description": "HOME COLLECTION ‘ PRIVATE CEREMONY‘\nсукня з мережива / трусики\n\nдовжина mini / брителі регулюються / подвоєна тканина сіткою в зоні грудей\n\nкольори: WHITE / BLACK \nрозміри: XS / S / M / L\nвсі вироби відшиваємо у двох ростовках",
+    "source": "https://www.instagram.com/theage_studio/p/DVD9qNVCsAd/",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "WHITE",
+      "BLACK"
+    ],
+    "collection": "PRIVATE CEREMONY",
+    "material": "Мереживо",
+    "features": [
+      "Довжина міні.",
+      "Бретелі регулюються.",
+      "Подвійна тканина із сіткою в зоні грудей."
+    ],
+    "photoNote": "На фото показано образ. До кошика додається лише мереживна сукня mini."
+  },
+  {
+    "id": 13,
+    "name": "Халат MAXI",
+    "category": "Домашній одяг",
+    "price": 1000,
+    "images": [
+      "assets/post-6.jpg"
+    ],
+    "description": "HOME COLLECTION ‘ PRIVATE CEREMONY’\n\nхалат maxi / топ-бра / трусики\n\nхалат із мережива з атласним поясом / топ-бра з підкладкою без чашок / трусики міні\n\nкольори: WHITE / BLACK",
+    "source": "https://www.instagram.com/theage_studio/p/DVLpUSCCvMo/",
+    "sizes": [
+      "Підібрати в Direct"
+    ],
+    "colors": [
+      "WHITE",
+      "BLACK"
+    ],
+    "collection": "PRIVATE CEREMONY",
+    "material": "Мереживо",
+    "features": [
+      "Мереживо та атласний пояс."
+    ],
+    "photoNote": "На фото показано образ. До кошика додається лише халат maxi."
+  }
+]
